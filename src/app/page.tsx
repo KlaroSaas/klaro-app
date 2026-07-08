@@ -15,7 +15,7 @@ export default function Home() {
           menu à 40 options. Juste ta formation, en ligne, vendue.
         </p>
         <a
-          href="#"
+          href="/signup"
           className="inline-block px-8 py-4 rounded-xl bg-klaro-accent hover:bg-klaro-accent/90 transition font-semibold"
         >
           Créer ma formation gratuitement
